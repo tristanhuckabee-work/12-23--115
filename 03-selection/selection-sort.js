@@ -1,5 +1,3 @@
-
-
 function selectionSort(arr) {
 
   // Copy the original array
@@ -18,7 +16,6 @@ function selectionSort(arr) {
     // Add the min value to the end of the sorted array
 
 }
-
 
 
 function selectionSortInPlace(arr) {

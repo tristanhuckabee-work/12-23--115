@@ -1,4 +1,3 @@
-
 function bubbleSort(arr) {
   while (true) {
     let swapped = false;
@@ -14,7 +13,7 @@ function bubbleSort(arr) {
         console.log(arr.join(","));
       }
     }
-    
+
     if (!swapped) return arr;
   }
 }
